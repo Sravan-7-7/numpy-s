@@ -21,10 +21,10 @@ This repository serves as a comprehensive collection of my technical projects, c
 
 ## 🛠️ Technical Skill Set
 
-* **Languages:** Python 3.14 (Primary), C, C++.
+* **Languages:** Python 3.14 (Primary)
 * **Libraries:** NumPy, Pandas, Matplotlib.
 * **Domain Focus:** Data Engineering, AI/ML Foundations, Data Visualization.
-* **Environments:** Linux (CachyOS/Hyprland), PyCharm, CMD/Bash.
+* **Environments: PyCharm, CMD/Bash.
 
 ## 🎓 Education & Growth
 
