@@ -1,54 +1,46 @@
-🔢 High-Performance Numerical Computing with NumPy
+# Data Science & AI Portfolio
 
-This repository contains a collection of implementations, optimizations, and technical notes on NumPy (Numerical Python). As the fundamental package for scientific computing in Python, this project explores efficient array manipulation, linear algebra, and vectorization techniques essential for Artificial Intelligence and Data Science.
+This repository serves as a comprehensive collection of my technical projects, coursework, and practical implementations as a **B.Tech CSE (AI)** student. It highlights my journey in building scalable data systems, performing advanced analytics, and exploring Artificial Intelligence.
 
-🧠 Core Architecture
+## 🌟 Featured Projects
 
-NumPy’s power comes from N-dimensional arrays (ndarray). Unlike standard Python lists, NumPy arrays are stored in contiguous memory blocks, allowing for:
+### 1. Modular Data Pipeline (Clinical Research)
+* **Description:** A robust ETL pipeline designed to scrape and structure data regarding Clinical Research Agents.
+* **Key Features:** Modular architecture for easy maintenance, automated data extraction, and clean data output.
+* **Tech Stack:** Python, Requests, BeautifulSoup, Pandas.
 
-1.Vectorization: Eliminating explicit for loops for faster execution.
+### 2. Searchable Doctor's Prescription Database
+* **Description:** A system developed to organize and retrieve medical prescription data efficiently.
+* **Focus:** Data integrity, optimized search queries, and database structure.
+* **Tech Stack:** Python, File I/O / SQLite logic.
 
-2.Broadcasting: Performing operations on arrays of different shapes.
+### 3. Matplotlib Visualization Gallery
+* **Description:** A series of data visualization scripts focusing on scatter plots and statistical representations.
+* **Highlights:** Implementation of multi-series data, legends, and advanced styling (transparency, marker sizing).
+* **Tech Stack:** Matplotlib, NumPy.
 
-3.C-Engine Speed: Leveraging compiled C code for mathematical operations.
+## 🛠️ Technical Skill Set
 
-🛠️ Key Implementations
+* **Languages:** Python 3.14 (Primary), C, C++.
+* **Libraries:** NumPy, Pandas, Matplotlib.
+* **Domain Focus:** Data Engineering, AI/ML Foundations, Data Visualization.
+* **Environments:** Linux (CachyOS/Hyprland), PyCharm, CMD/Bash.
 
-1. Array Initialization & Manipulation
- 
-Efficiently creating and reshaping data structures for ML models.
+## 🎓 Education & Growth
 
-2. Vectorized Mathematical Operations
+* **University:** Om Sterling Global University (OSGU).
+* **Degree:** B.Tech in Computer Science and Engineering (Artificial Intelligence).
+* **Academic Performance:** Consistently improving academic record with a current CGPA of 7.14 (7.38 SGPA in the most recent semester).
 
-Replacing loops with high-performance universal functions (ufuncs).
+## 📊 Learning Roadmap
 
-| Operation | NumPy Implementation | Complexity |
+- [x] NumPy & Array Manipulation
+- [x] Matplotlib Data Visualization
+- [ ] SQL & Advanced Database Management (Planned for Year 3)
+- [ ] Scikit-learn for Machine Learning
 
-| :--- | :--- | :--- |
-
-| Dot Product | np.dot(a, b) | $O(n^3)$ optimized 
-
-| Mean/Std Dev | np.mean(), np.std() | $O(n)$ |
-
-| Transposition | array.T | $O(1)$ (view-based) |
-
-| Matrix Inverse | np.linalg.inv() | Linear Algebra suite |
-
-3. Masking and Filtering
-   
-Advanced indexing techniques used in data cleaning.
-
-🔬 Scientific Applications
-
-This repository demonstrates how NumPy serves as the backbone for:
-
-1.Linear Algebra: Solving systems of equations and Eigenvalue decompositions.
-
-2.Signal Processing: Fast Fourier Transforms (np.fft).
-
-3.Image Processing: Treating images as 3D arrays (RGB) for manipulation.
-
-🚀 Performance Benchmarking
-
-A key focus of this project is comparing Pure Python vs. NumPy execution times. Vectorized NumPy operations typically provide a 10x to 100x speedup on large datasets, which is critical for real-time AI applications.
-
+## 👤 Contact
+**Sravan**
+* Email: [thesravann7@gmail.com](mailto:thesravann7@gmail.com)
+* GitHub: [Sravan-7-7](https://github.com/Sravan-7-7)
+[Portfolio_README.md](https://github.com/user-attachments/files/26610262/Portfolio_README.md)
